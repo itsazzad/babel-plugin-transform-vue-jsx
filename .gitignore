@@ -2,3 +2,7 @@
 node_modules
 example/example.build.js
 dist
+.idea
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
